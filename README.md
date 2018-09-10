@@ -1,7 +1,5 @@
 # ScreenShot Grab Program
 
-[![image](http://i.imgur.com/Vk5CpFI.png)](http://imgur.com/a/0upT9/) 
-###[DOWNLOAD](https://github.com/AlexALX/ScreenshootGrab/releases)
 
 ## Description
 This is small simple program to grab and save screenshots on the computer with the ability to upload in own server or services [imgur.com](http://imgur.com/), [fastpic.ru](http://fastpic.ru/).
@@ -44,8 +42,6 @@ Read more on [wiki](https://github.com/AlexALX/ScreenshootGrab/wiki).
 
 ----------------
 
-[![image](http://i.imgur.com/QdTOYxy.png)](http://imgur.com/a/0upT9/) 
-###[СКАЧАТЬ](https://github.com/AlexALX/ScreenshootGrab/releases)
 
 ## Описание
 Небольшая простая программа для захвата и сохранения скриншотов на компьютер с возможностью загрузки на свой сервер или сервисы [imgur.com](http://imgur.com/), [fastpic.ru](http://fastpic.ru/).
@@ -84,9 +80,4 @@ Read more on [wiki](https://github.com/AlexALX/ScreenshootGrab/wiki).
 <br>О: Простите, но программа не может захватывать скриншоты с полноэкранных приложений (такие как игры).
 <br>Примечание: если вы используете windows 10 то вы можете включить "Использовать буфер обмена вместо захвата" в настройках для захвата скриншотов из игр.
 
-Прочитать больше на [вики](https://github.com/AlexALX/ScreenshootGrab/wiki/).
 
-----------------
-
-License [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-<br>Created by [AlexALX](http://alexalx.com/) (c) 2016
